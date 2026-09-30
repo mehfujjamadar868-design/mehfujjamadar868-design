@@ -23,34 +23,36 @@ Career Pathfinder Pro is an AI/ML-based application designed to recommend suitab
 The application also provides a learning roadmap to help users understand the skills they can develop for their recommended career path.
 
 **Technologies used:**
-- Python
-- Pandas
-- Scikit-learn
-- Streamlit
-- Machine Learning
+
+* Python
+* Pandas
+* Scikit-learn
+* Streamlit
+* Machine Learning
 
 [View the project on GitHub](https://github.com/mehfujjamadar868-design/CAREER-PATHFINDER-PRO)
 
 ## Technical Skills
 
-**Programming:**  
+**Programming:**
 Python, SQL, C/C++ (Basic)
 
-**AI & Machine Learning:**  
+**AI & Machine Learning:**
 Machine Learning, Deep Learning Fundamentals, Scikit-learn, Pandas, NumPy, Matplotlib
 
-**Development:**  
+**Development:**
 Streamlit, HTML, CSS, JavaScript (Basic)
 
-**Tools:**  
+**Tools:**
 Git, GitHub
 
-**Additional Knowledge:**  
+**Additional Knowledge:**
 Generative AI Fundamentals, Cybersecurity Fundamentals
 
 ## Internship Experience
 
 ### AI-ML Virtual Internship
+
 **AICTE–EduSkills | July 2025 – September 2025**
 
 During the internship, I developed a foundation in Artificial Intelligence and Machine Learning, including different types of machine learning, model training, prediction, and evaluation.
@@ -58,6 +60,7 @@ During the internship, I developed a foundation in Artificial Intelligence and M
 I gained exposure to NumPy, Pandas, Matplotlib, and Scikit-learn and practiced basic machine learning implementations and model evaluation.
 
 ### Cybersecurity Virtual Internship
+
 **AICTE–EduSkills | April 2026 – June 2026**
 
 During the internship, I learned fundamental cybersecurity concepts, including common attack methods, threat identification, attacker types, and security practices.
@@ -66,26 +69,26 @@ I also gained an understanding of malware and virus identification concepts, alo
 
 ## Education
 
-**B.E./B.Tech — Computer Science & Engineering**  
+**B.E./B.Tech — Computer Science & Engineering**
 Expected Graduation: 2027
 
 ## Certifications & Credentials
 
-- AWS Academy Graduate — Generative AI Foundations
-- IBM SkillsBuild — Artificial Intelligence Fundamentals
-- IBM SkillsBuild — Data Fundamentals
-- IBM SkillsBuild — Cybersecurity Fundamentals
-- IBM SkillsBuild — Getting Started with Artificial Intelligence
+* AWS Academy Graduate — Generative AI Foundations
+* IBM SkillsBuild — Artificial Intelligence Fundamentals
+* IBM SkillsBuild — Data Fundamentals
+* IBM SkillsBuild — Cybersecurity Fundamentals
+* IBM SkillsBuild — Getting Started with Artificial Intelligence
 
 ## Currently Learning
 
-- Python and problem solving
-- SQL
-- Data Structures and Algorithms
-- Machine Learning
-- Generative AI
-- AI Application Development
-- Git and GitHub
+* Python and problem solving
+* SQL
+* Data Structures and Algorithms
+* Machine Learning
+* Generative AI
+* AI Application Development
+* Git and GitHub
 
 ## Leadership & Communication
 
@@ -97,16 +100,22 @@ I enjoy explaining technical concepts, communicating ideas, and working with oth
 
 I am interested in opportunities related to:
 
-- Software Development
-- Python Development
-- Artificial Intelligence and Machine Learning
-- Data and Analytics
-- Generative AI
+* Software Development
+* Python Development
+* Artificial Intelligence and Machine Learning
+* Data and Analytics
+* Generative AI
 
 ## Connect With Me
 
-**GitHub:**  
+**GitHub:**
 https://github.com/mehfujjamadar868-design
 
-**LinkedIn:**  
-Coming soon
+**LinkedIn:**
+https://www.linkedin.com/in/mehfuj-jamadar-9850a8319/
+
+**Portfolio:**
+https://mehfujjamadar.wordpress.com/
+
+**Personal Website:**
+https://mehfujjamadar-ms-r3435.netlify.app/
