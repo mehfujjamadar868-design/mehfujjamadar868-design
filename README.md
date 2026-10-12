@@ -99,7 +99,8 @@ I am actively seeking opportunities related to:
 
 ## Connect With Me
 
-**GitHub:** [https://GitHub.com](https://github.com/mehfujjamadar868-design)
-**LinkedIn:** [https://linkedin.com](https://www.linkedin.com/in/mehfuj-jamadar-9850a8319/)  
-**Portfolio:**[ https://wordpress.com ](https://mehfujjamadar.wordpress.com/) 
-**Personal Website:** [https://netlify.app](https://mehfujjamadar-ms-r3435.netlify.app/)
+* **GitHub:** [mehfujjamadar868-design](https://github.com)
+* **LinkedIn:** [Mehfuj Jamadar](https://linkedin.com)
+* **Credly:** [My Badges & Credentials](https://www.credly.com/users/mehfuj-jamadar/badges/credly)
+* **Portfolio:** [WordPress Blog](https://wordpress.com)
+* **Personal Website:** [Netlify Site](https://netlify.app)
