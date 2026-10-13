@@ -23,7 +23,7 @@ Career Pathfinder Pro is an AI/ML-based application designed to recommend suitab
 * Streamlit
 * Machine Learning
 
-[Live Application](https://career-pathfinder-pro-3hezlf2usqtnqbheavsaux.streamlit.app/) | [View the project on GitHub](https://github.com)
+[Live Application](https://career-pathfinder-pro-3hezlf2usqtnqbheavsaux.streamlit.app/) | [View the project on GitHub](https://github.com/mehfujjamadar868-design/CAREER-PATHFINDER-PRO)
 
 ### Emotion Detector AI (Group Project)
 An AI-powered application built collaboratively to detect human emotions from visual/textual data, leveraging deep learning models to process inputs and output real-time emotional states.
@@ -34,7 +34,7 @@ An AI-powered application built collaboratively to detect human emotions from vi
 * Machine Learning
 * Git & GitHub (Collaborative Workflow)
 
-[Live Application](https://emotion-detector-ai-4wkbvb7romvw8lnqqxumzp.streamlit.app/) | [View the project on GitHub](https://github.com)
+[Live Application](https://emotion-detector-ai-4wkbvb7romvw8lnqqxumzp.streamlit.app/) | [View the project on GitHub](https://github.com/mehfujjamadar868-design/emotion-detector-ai)
 
 ## Technical Skills
 
