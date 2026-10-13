@@ -34,7 +34,7 @@ An AI-powered application built collaboratively to detect human emotions from vi
 * Machine Learning
 * Git & GitHub (Collaborative Workflow)
 
-[View the project on GitHub](https://github.com)
+[Live Application](https://emotion-detector-ai-4wkbvb7romvw8lnqqxumzp.streamlit.app/) | [View the project on GitHub](https://github.com)
 
 ## Technical Skills
 
