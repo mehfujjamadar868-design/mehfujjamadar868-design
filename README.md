@@ -11,6 +11,8 @@ I enjoy learning by building projects and experimenting with new technologies. M
 ### JARVIS — AI Personal Assistant
 I am currently developing JARVIS as an independent project to explore AI application development and build a practical personal assistant. The project is focusing on autonomous task execution, voice interaction, and full system integration.
 
+[View the project on GitHub](https://github.com/mehfujjamadar868-design/JARVIS)
+
 ## Featured Projects
 
 ### Career Pathfinder Pro
